@@ -7,15 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8009CDFB2935F0AF00291759 /* Flower1.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8009CDFA2935F0AF00291759 /* Flower1.jpeg */; };
+		8009CE002935F0BF00291759 /* flower-4.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8009CDFC2935F0BE00291759 /* flower-4.jpeg */; };
+		8009CE012935F0BF00291759 /* flower-5.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8009CDFD2935F0BF00291759 /* flower-5.jpeg */; };
+		8009CE022935F0BF00291759 /* Flower2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8009CDFE2935F0BF00291759 /* Flower2.jpeg */; };
+		8009CE032935F0BF00291759 /* Flower3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8009CDFF2935F0BF00291759 /* Flower3.jpeg */; };
+		8009CE052936025600291759 /* TabBarControllerVC2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8009CE042936025600291759 /* TabBarControllerVC2.swift */; };
+		8009CE07293602F000291759 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8009CE06293602F000291759 /* User.swift */; };
+		8009CE0D2936069B00291759 /* VC3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8009CE0C2936069B00291759 /* VC3.swift */; };
+		8009CE0F29360ED500291759 /* CellData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8009CE0E29360ED500291759 /* CellData.swift */; };
+		8009CE1129360EE300291759 /* CellData.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8009CE1029360EE300291759 /* CellData.xib */; };
 		80FA00BD2934CCB6009AB229 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80FA00BC2934CCB6009AB229 /* AppDelegate.swift */; };
 		80FA00BF2934CCB6009AB229 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80FA00BE2934CCB6009AB229 /* SceneDelegate.swift */; };
 		80FA00C12934CCB6009AB229 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80FA00C02934CCB6009AB229 /* ViewController.swift */; };
 		80FA00C42934CCB6009AB229 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80FA00C22934CCB6009AB229 /* Main.storyboard */; };
 		80FA00C62934CCBB009AB229 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80FA00C52934CCBB009AB229 /* Assets.xcassets */; };
 		80FA00C92934CCBB009AB229 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80FA00C72934CCBB009AB229 /* LaunchScreen.storyboard */; };
+		80FA00D72934D539009AB229 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80FA00D62934D539009AB229 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8009CDFA2935F0AF00291759 /* Flower1.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Flower1.jpeg; path = "../../../Asset Images/Flower1.jpeg"; sourceTree = "<group>"; };
+		8009CDFC2935F0BE00291759 /* flower-4.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "flower-4.jpeg"; path = "../../../Asset Images/flower-4.jpeg"; sourceTree = "<group>"; };
+		8009CDFD2935F0BF00291759 /* flower-5.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "flower-5.jpeg"; path = "../../../Asset Images/flower-5.jpeg"; sourceTree = "<group>"; };
+		8009CDFE2935F0BF00291759 /* Flower2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Flower2.jpeg; path = "../../../Asset Images/Flower2.jpeg"; sourceTree = "<group>"; };
+		8009CDFF2935F0BF00291759 /* Flower3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Flower3.jpeg; path = "../../../Asset Images/Flower3.jpeg"; sourceTree = "<group>"; };
+		8009CE042936025600291759 /* TabBarControllerVC2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarControllerVC2.swift; sourceTree = "<group>"; };
+		8009CE06293602F000291759 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		8009CE0C2936069B00291759 /* VC3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VC3.swift; sourceTree = "<group>"; };
+		8009CE0E29360ED500291759 /* CellData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CellData.swift; sourceTree = "<group>"; };
+		8009CE1029360EE300291759 /* CellData.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CellData.xib; sourceTree = "<group>"; };
 		80FA00B92934CCB6009AB229 /* TabBarDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TabBarDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		80FA00BC2934CCB6009AB229 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		80FA00BE2934CCB6009AB229 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +45,7 @@
 		80FA00C52934CCBB009AB229 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		80FA00C82934CCBB009AB229 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		80FA00CA2934CCBB009AB229 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		80FA00D62934D539009AB229 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +62,7 @@
 		80FA00B02934CCB6009AB229 = {
 			isa = PBXGroup;
 			children = (
+				8009CE042936025600291759 /* TabBarControllerVC2.swift */,
 				80FA00BB2934CCB6009AB229 /* TabBarDemo */,
 				80FA00BA2934CCB6009AB229 /* Products */,
 			);
@@ -59,10 +82,20 @@
 				80FA00BC2934CCB6009AB229 /* AppDelegate.swift */,
 				80FA00BE2934CCB6009AB229 /* SceneDelegate.swift */,
 				80FA00C02934CCB6009AB229 /* ViewController.swift */,
+				80FA00D62934D539009AB229 /* CollectionViewCell.swift */,
 				80FA00C22934CCB6009AB229 /* Main.storyboard */,
+				8009CE0E29360ED500291759 /* CellData.swift */,
+				8009CE1029360EE300291759 /* CellData.xib */,
+				8009CE0C2936069B00291759 /* VC3.swift */,
 				80FA00C52934CCBB009AB229 /* Assets.xcassets */,
+				8009CDFA2935F0AF00291759 /* Flower1.jpeg */,
+				8009CDFE2935F0BF00291759 /* Flower2.jpeg */,
+				8009CDFF2935F0BF00291759 /* Flower3.jpeg */,
+				8009CDFC2935F0BE00291759 /* flower-4.jpeg */,
+				8009CDFD2935F0BF00291759 /* flower-5.jpeg */,
 				80FA00C72934CCBB009AB229 /* LaunchScreen.storyboard */,
 				80FA00CA2934CCBB009AB229 /* Info.plist */,
+				8009CE06293602F000291759 /* User.swift */,
 			);
 			path = TabBarDemo;
 			sourceTree = "<group>";
@@ -125,7 +158,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8009CE002935F0BF00291759 /* flower-4.jpeg in Resources */,
+				8009CDFB2935F0AF00291759 /* Flower1.jpeg in Resources */,
+				8009CE032935F0BF00291759 /* Flower3.jpeg in Resources */,
+				8009CE1129360EE300291759 /* CellData.xib in Resources */,
+				8009CE012935F0BF00291759 /* flower-5.jpeg in Resources */,
 				80FA00C92934CCBB009AB229 /* LaunchScreen.storyboard in Resources */,
+				8009CE022935F0BF00291759 /* Flower2.jpeg in Resources */,
 				80FA00C62934CCBB009AB229 /* Assets.xcassets in Resources */,
 				80FA00C42934CCB6009AB229 /* Main.storyboard in Resources */,
 			);
@@ -138,8 +177,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8009CE0D2936069B00291759 /* VC3.swift in Sources */,
 				80FA00C12934CCB6009AB229 /* ViewController.swift in Sources */,
 				80FA00BD2934CCB6009AB229 /* AppDelegate.swift in Sources */,
+				8009CE0F29360ED500291759 /* CellData.swift in Sources */,
+				8009CE07293602F000291759 /* User.swift in Sources */,
+				8009CE052936025600291759 /* TabBarControllerVC2.swift in Sources */,
+				80FA00D72934D539009AB229 /* CollectionViewCell.swift in Sources */,
 				80FA00BF2934CCB6009AB229 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
